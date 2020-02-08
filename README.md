@@ -3,3 +3,5 @@
 ~ vá até a pasta <i>backend/</i> e rode o seguinte comando:<b> yarn dev</b></br>
 ~ vá ate a pasta <i>web/</i> e rode o seguinte comando : <b>yarn start</b>
 
+<h5><b>OBS:</b>Os comandos acima devem ser executados simultaneamente</h5>
+
